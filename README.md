@@ -6,18 +6,18 @@ There will be a simple donate button on the homepage. On clicking the donate but
 
 Once the payment is done an invoice will be generated and an email will be sent to the user for the payment received. The invoice will contain the amount. 
 
-The Working Video is also available on LinkedIn 👍👍👍
+The Working Video is also available on LinkedIn.
 
 https://www.linkedin.com/in/samir-bharati-887b04208/
 
-Tech Stacks 👍 :-
+Tech Stacks :-
 
 Front End :-
 
 Html
 CSS
 JS
-Gateway Used 👍 :-
+Gateway Used :-
 
 RazorPay
 
