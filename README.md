@@ -1,4 +1,4 @@
-# Sparks Foundation - GRIP - Internship - task5
+# Sparks Foundation 
 
 A simple Responsive website where payment gateway is integrated. 
 
@@ -22,11 +22,3 @@ Gateway Used :-
 RazorPay
 
 PayU
-
-This Project was given by THE SPARKS FOUNDATION
-
-https://www.thesparksfoundationsingapore.org/
-
-Under the Graduate Rotational Internship Program (GRIP)
-
-https://www.thesparksfoundationsingapore.org/join-us/internship-positions/github-GRIP-Payment-Gateway-Integration
